@@ -5,9 +5,9 @@
 	"author": "JysonKhan",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.8.9",
-	"system": "dcc"
+	"system": "dcc",
 	"scripts": [
-		"scripts/RMHP.js",
+		"scripts/RMHP.js"
 	]
 	
 	
