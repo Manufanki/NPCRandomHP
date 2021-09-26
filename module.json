@@ -1,5 +1,5 @@
 {
-	"name": "Random Mob HP",
+	"name": "RandomMobHP",
 	"title": "Random Mob HP",
 	"description": "A simple moduale to automaticly roll and update the HP of neutral and hostile tokens when placed on the scene",
 	"author": "JysonKhan",
