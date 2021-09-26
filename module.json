@@ -3,11 +3,11 @@
   "title": "Random Mob HP",
   "description": "A simple moduale to automaticly roll and update the HP of NPC tokens when placed on the scene",
   "author": "JysonKhan",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.9",
   "system": "dcc",
   "scripts": ["scripts/RMHP.js"],
   "url": "https://randommohp.glitch.me/module.json",
-  "download": "https://github.com/JysonKhan/RandomMobHP/archive/refs/tags/v1.0.4.zip"
+  "download": "https://github.com/JysonKhan/RandomMobHP/archive/refs/tags/v1.0.5.zip"
 }
