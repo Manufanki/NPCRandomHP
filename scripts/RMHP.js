@@ -8,6 +8,7 @@ console.log (TDoc.actor.type);
 		let HD = TDoc.actor.data.data.attributes.hitDice.value;
 		let HP = new Roll(HD, data = {}, options = {});
 		HP.evaluate();
+		if (HP.total <= 0) {HP.total = 1;}
 		TDoc.actor.data.data.attributes.hp.value = HP.total;
 		TDoc.actor.data.data.attributes.hp.min = HP.total;
 		TDoc.actor.data.data.attributes.hp.max = HP.total;
