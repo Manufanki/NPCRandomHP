@@ -8,7 +8,8 @@
 	"system": "dcc",
 	"scripts": [
 		"scripts/RMHP.js"
-	]
+	],
+	"url": "https://github.com/JysonKhan/RandomMobHP/blob/main/module.json"
 	
 	
 }
