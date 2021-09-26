@@ -1,18 +1,13 @@
 {
-	"name": "RandomMobHP",
-	"title": "Random Mob HP",
-	"description": "A simple moduale to automaticly roll and update the HP of neutral and hostile tokens when placed on the scene",
-	"author": "JysonKhan",
-	"version": "1.0.0",
-	"minimumCoreVersion": "0.8.0",
-	"compatibleCoreVersion": "0.8.9",
-	"system": "dcc",
-	"scripts": [
-		"scripts/RMHP.js"
-	],
-	"url": "https://github.com/JysonKhan/RandomMobHP",
-    	"manifest": "https://raw.githubusercontent.com/JysonKhan/RandomMobHP/main/module.json",
-   	"download": "https://github.com/JysonKhan/RandomMobHP/archive/sourcecode.zip",
-	
-	
+  "name": "RandomMobHP",
+  "title": "Random Mob HP",
+  "description": "A simple moduale to automaticly roll and update the HP of neutral and hostile tokens when placed on the scene",
+  "author": "JysonKhan",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
+  "system": "dcc",
+  "scripts": ["scripts/RMHP.js"],
+  "download": "https://github.com/JysonKhan/RandomMobHP/archive/refs/tags/v1.0.zip"
 }
+
