@@ -10,7 +10,9 @@
 	"scripts": [
 		"scripts/RMHP.js"
 	],
-	
+	"url": "https://github.com/JysonKhan/RandomMobHP",
+    	"manifest": "https://raw.githubusercontent.com/JysonKhan/RandomMobHP/master/module.json",
+   	"download": "https://github.com/JysonKhan/RandomMobHP/archive/master.zip",
 	
 	
 }
