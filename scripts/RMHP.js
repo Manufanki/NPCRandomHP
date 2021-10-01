@@ -13,7 +13,7 @@ Hooks.on("createToken", (TDoc, t1, t2) => {
 		if (tHP < 1) {tHP = 1;}
 		// assigning the random HP amount to the proper fields
 		TDoc.actor.data.data.attributes.hp.value = tHP;
-		TDoc.actor.data.data.attributes.hp.min = tHP;
 		TDoc.actor.data.data.attributes.hp.max = tHP;
+		TDoc.update();
 	}
 });
