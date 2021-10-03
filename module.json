@@ -3,12 +3,12 @@
   "title": "NPC Random HP",
   "description": "A simple moduale to automaticly roll and update the HP of NPC tokens when placed on the scene",
   "author": "JysonKhan",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.9",
   "system": "dcc",
   "scripts": ["scripts/RMHP.js"],
   "url": "https://github.com/JysonKhan/NPCRandomHP",
   "manifest": "https://github.com/JysonKhan/NPCRandomHP/releases/latest/download/module.json",
-  "download": "https://github.com/JysonKhan/NPCRandomHP/releases/download/v1.0.6/module.zip"
+  "download": "https://github.com/JysonKhan/NPCRandomHP/releases/download/v1.0.7/module.zip"
 }
