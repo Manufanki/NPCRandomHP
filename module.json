@@ -1,14 +1,14 @@
 {
-  "name": "npcrandomhp",
+  "name": "npcrandomhpdnd5e",
   "title": "NPC Random HP",
-  "description": "A simple moduale to automaticly roll and update the HP of NPC tokens when placed on the scene",
+  "description": "A simple moduale for dnd to automaticly roll and update the HP of NPC tokens when placed on the scene",
   "author": "JysonKhan",
   "version": "1.0.7",
-  "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "0.8.9",
-  "system": "dcc",
+  "minimumCoreVersion": "8.0",
+  "compatibleCoreVersion": "10.279",
+  "system": "dnd5e",
   "scripts": ["scripts/RMHP.js"],
-  "url": "https://github.com/JysonKhan/NPCRandomHP",
-  "manifest": "https://github.com/JysonKhan/NPCRandomHP/releases/latest/download/module.json",
-  "download": "https://github.com/JysonKhan/NPCRandomHP/releases/download/v1.0.7/module.zip"
+  "url": "https://github.com/Manufanki/NPCRandomHP",
+  "manifest": "https://github.com/Manufanki/NPCRandomHP/releases/latest/download/module.json",
+  "download": "https://github.com/Manufanki/NPCRandomHP/releases/download/v1.0.7/module.zip"
 }
