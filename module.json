@@ -3,7 +3,7 @@
   "title": "NPC Random HP",
   "description": "A simple moduale for dnd to automaticly roll and update the HP of NPC tokens when placed on the scene",
   "author": "JysonKhan",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "minimumCoreVersion": "8.0",
   "compatibleCoreVersion": "10.279",
   "system": "dnd5e",
